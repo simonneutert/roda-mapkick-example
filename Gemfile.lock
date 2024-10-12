@@ -6,7 +6,7 @@ GEM
     rackup (2.1.0)
       rack (>= 3)
       webrick (~> 1.8)
-    roda (3.84.0)
+    roda (3.85.0)
       rack
     tilt (2.4.0)
     webrick (1.8.1)
@@ -19,7 +19,7 @@ PLATFORMS
 DEPENDENCIES
   mapkick-rb
   rackup (~> 2.1)
-  roda (~> 3.84)
+  roda (~> 3.85)
   tilt (~> 2.4)
 
 BUNDLED WITH
