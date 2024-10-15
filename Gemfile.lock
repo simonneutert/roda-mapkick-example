@@ -9,7 +9,7 @@ GEM
     roda (3.85.0)
       rack
     tilt (2.4.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   arm64-darwin-21
