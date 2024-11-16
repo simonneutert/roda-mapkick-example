@@ -3,6 +3,6 @@
 source 'https://rubygems.org'
 
 gem 'mapkick-rb'
-gem 'rackup', '~> 2.1'
-gem 'roda', '~> 3.85'
+gem 'rackup', '~> 2.2'
+gem 'roda', '~> 3.86'
 gem 'tilt', '~> 2.4'
