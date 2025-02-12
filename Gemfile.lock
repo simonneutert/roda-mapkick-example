@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     mapkick-rb (0.2.0)
-    rack (3.1.8)
+    rack (3.1.10)
     rackup (2.2.1)
       rack (>= 3)
     roda (3.88.0)
