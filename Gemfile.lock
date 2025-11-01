@@ -5,7 +5,7 @@ GEM
     rack (3.2.3)
     rackup (2.2.1)
       rack (>= 3)
-    roda (3.96.0)
+    roda (3.97.0)
       rack
     tilt (2.6.1)
 
@@ -17,7 +17,7 @@ PLATFORMS
 DEPENDENCIES
   mapkick-rb
   rackup (~> 2.2)
-  roda (~> 3.96)
+  roda (~> 3.97)
   tilt (~> 2.6)
 
 BUNDLED WITH
