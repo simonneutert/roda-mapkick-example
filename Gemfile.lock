@@ -5,9 +5,9 @@ GEM
     rack (3.2.4)
     rackup (2.3.1)
       rack (>= 3)
-    roda (3.99.0)
+    roda (3.100.0)
       rack
-    tilt (2.6.1)
+    tilt (2.7.0)
 
 PLATFORMS
   arm64-darwin-21
@@ -17,8 +17,8 @@ PLATFORMS
 DEPENDENCIES
   mapkick-rb
   rackup (~> 2.3)
-  roda (~> 3.99)
-  tilt (~> 2.6)
+  roda (~> 3.100)
+  tilt (~> 2.7)
 
 BUNDLED WITH
    2.4.3
