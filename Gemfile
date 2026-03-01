@@ -4,5 +4,5 @@ source 'https://rubygems.org'
 
 gem 'mapkick-rb'
 gem 'rackup', '~> 2.3'
-gem 'roda', '~> 3.100'
+gem 'roda', '~> 3.101'
 gem 'tilt', '~> 2.7'
