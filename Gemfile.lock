@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    mapkick-rb (0.2.0)
+    mapkick-rb (0.3.0)
     rack (3.2.6)
     rackup (2.3.1)
       rack (>= 3)
-    roda (3.102.0)
+    roda (3.103.0)
       rack
     tilt (2.7.0)
 
@@ -17,7 +17,7 @@ PLATFORMS
 DEPENDENCIES
   mapkick-rb
   rackup (~> 2.3)
-  roda (~> 3.102)
+  roda (~> 3.103)
   tilt (~> 2.7)
 
 BUNDLED WITH
